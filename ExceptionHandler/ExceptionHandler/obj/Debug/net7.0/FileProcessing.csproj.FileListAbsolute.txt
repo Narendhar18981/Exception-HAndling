@@ -1,0 +1,15 @@
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\bin\Debug\net7.0\FileProcessing.exe
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\bin\Debug\net7.0\FileProcessing.deps.json
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\bin\Debug\net7.0\FileProcessing.runtimeconfig.json
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\bin\Debug\net7.0\FileProcessing.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\bin\Debug\net7.0\FileProcessing.pdb
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.csproj.AssemblyReference.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.AssemblyInfoInputs.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.AssemblyInfo.cs
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\refint\FileProcessing.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.pdb
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\FileProcessing.genruntimeconfig.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\ExceptionHandler\obj\Debug\net7.0\ref\FileProcessing.dll

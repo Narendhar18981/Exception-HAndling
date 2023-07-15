@@ -1,0 +1,15 @@
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\bin\Debug\net7.0\NetworkCommunication.exe
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\bin\Debug\net7.0\NetworkCommunication.deps.json
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\bin\Debug\net7.0\NetworkCommunication.runtimeconfig.json
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\bin\Debug\net7.0\NetworkCommunication.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\bin\Debug\net7.0\NetworkCommunication.pdb
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.csproj.AssemblyReference.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.AssemblyInfoInputs.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.AssemblyInfo.cs
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.csproj.CoreCompileInputs.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\refint\NetworkCommunication.dll
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.pdb
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\NetworkCommunication.genruntimeconfig.cache
+C:\Users\Narendhar Banala\source\repos\ExceptionHandler\NetworkCommunication\obj\Debug\net7.0\ref\NetworkCommunication.dll
